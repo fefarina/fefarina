@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**fefarina/fefarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 I'm a software development student, passionate about technology and my cats. :smiley_cat:
 
