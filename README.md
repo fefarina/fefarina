@@ -8,8 +8,10 @@ I'm a software development student, passionate about technology and my cats. :sm
 
 Extremely curious about everything that surrounds the world of web development!
 
-##Technologies of interest
+## Technologies of interest
 `Javascript` `React` `Node` `HTML` `CSS` `TypeScript` `MySQL`
+
+:fist_oncoming:
 
 
 
