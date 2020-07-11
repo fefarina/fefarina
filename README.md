@@ -6,5 +6,7 @@ Extremely curious about everything that surrounds the world of web development!
 
 → linkedin: linkedin.com/in/felipefarinaa/
 
-[![Linkedin](https://www.linkedin.com/in/felipefarinaa/)]
+
+
+
 
