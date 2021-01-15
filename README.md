@@ -13,6 +13,7 @@ Extremely curious about everything that surrounds the world of web development!
 
 :fist_oncoming:
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fefarina&show_icons=true&theme=tokyonight)
 
 
 
